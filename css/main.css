@@ -1,0 +1,32 @@
+body{
+	background: orange;
+	font-family: tahoma;
+}
+.header{
+	color:white;
+}
+.aNav{	
+	display: grid;	
+	padding: 14px 25px;
+	text-decoration: none;
+	display: inline-block;	
+	color :	white;
+	margin: 12px;
+}
+.aNav:hover, .aNav:active{
+	background-color: #cc6600;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	border-radius: 12px;	    
+}
+
+footer{
+	background: gray;
+}
+#footer{
+	opacity: 0.5;
+	margin-left: 12px;
+}
